@@ -37,10 +37,26 @@ Desenvolvedor focado em criar ferramentas utilitárias e explorar soluções em 
 <table>
   <tr>
     <td width="100%">
+      <h3>🎮 MixMaster NPC Reader</h3>
+      <p>Sistema especializado para leitura e análise de arquivos .lua de NPCs do MixMaster Online.</p>
+      <p><strong>Destaques:</strong> 📁 Leitura de arquivos .lua
+🔍 Detecção inteligente de funções
+📊 Estatísticas detalhadas
+🎯 Extração de Quest IDs
+📦 Exportação para JSON
+🎨 Interface moderna com CustomTkinter</p>
+      <a href="https://github.com/AnderSU-TCM/NPC_READER">Ver Repositório</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%">
       <h3>🛠️ Leitor Universal de Arquivos MM</h3>
       <p>Uma ferramenta especializada desenvolvida para descriptografar e editar arquivos de configuração dos formatos .sct e .cfg do jogo MixMaster.</p>
       <p><strong>Destaques:</strong> Manipulação de arquivos, Engenharia Reversa, Customização.</p>
-      <a href="https://github.com">Ver Repositório</a>
+      <a href="https://github.com/AnderSU-TCM/Leitor_Universal_de_Arquivos_MM">Ver Repositório</a>
     </td>
   </tr>
 </table>
